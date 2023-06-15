@@ -1,4 +1,5 @@
-# Слайдер картинок
-### 3 урок в марафоне по JS. Курс Владилена Минина
+# Вертикальный слайдер картинок на JS
+### Делал проходя мини курс Владилена Минина по JS
 
-#### Сылка на сайт - [Delivery](https://olirun.github.io/JS-Marathon.03.Slider/).
+#### Сcылка на сайт - [fruits](https://olirun.github.io/5-Project__JS-vertical-slider
+/).
